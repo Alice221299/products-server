@@ -1,0 +1,427 @@
+{
+  "products": [
+    {
+      "name": "Cauliflower",
+      "image": "../images/coliflower.jpg",
+      "category": "Vegetables & Fruit",
+      "amount": "800g",
+      "company": "Apple Inc.",
+      "price": "0.99",
+      "old_price": "1.20",
+      "id": "1"
+    },
+    {
+      "name": "Mushrooms",
+      "image": "../images/mushrooms.jpg",
+      "category": "Vegetables & Fruit",
+      "amount": "1kg",
+      "company": "Chiquita",
+      "price": "0.50",
+      "old_price": "0.60",
+      "id": "2"
+    },
+    {
+      "name": "Carrot",
+      "image": "../images/carrot.jpg",
+      "category": "Vegetables & Fruit",
+      "amount": "1kg",
+      "company": "Farm Fresh",
+      "price": "0.25",
+      "old_price": "0.30",
+      "id": "3"
+    },
+    {
+      "name": "Brussel cabage",
+      "image": "../images/brussel.jpg",
+      "category": "Vegetables & Fruit",
+      "amount": "500g",
+      "company": "Sunshine Farms",
+      "price": "2.99",
+      "old_price": "3.50",
+      "id": "4"
+    },
+    {
+      "name": "Tomatoes",
+      "image": "../images/tomatoes.jpg",
+      "category": "Vegetables & Fruit",
+      "amount": "1kg",
+      "company": "Garden Fresh",
+      "price": "0.75",
+      "old_price": "0.90",
+      "id": "5"
+    },
+    {
+      "name": "Cola",
+      "image": "../images/cola.jpg",
+      "category": "Beverages",
+      "amount": "300ml",
+      "company": "Coca-Cola",
+      "price": "1.50",
+      "old_price": "1.80",
+      "id": "6"
+    },
+    {
+      "name": "Orange Juice",
+      "image": "../images/orange_juice.jpg",
+      "category": "Beverages",
+      "amount": "300ml",
+      "company": "Tropicana",
+      "price": "3.99",
+      "old_price": "4.50",
+      "id": "7"
+    },
+    {
+      "name": "Coffee",
+      "image": "../images/coffee.jpg",
+      "category": "Beverages",
+      "amount": "100g",
+      "company": "Nescafe",
+      "price": "8.99",
+      "old_price": "10.00",
+      "id": "8"
+    },
+    {
+      "name": "Tea",
+      "image": "../images/tea.jpg",
+      "category": "Beverages",
+      "amount": "200ml",
+      "company": "Twinings",
+      "price": "4.99",
+      "old_price": "5.50",
+      "id": "9"
+    },
+    {
+      "name": "Mineral Water",
+      "image": "../images/mineral_water.jpg",
+      "category": "Beverages",
+      "amount": "500ml",
+      "company": "Twinings",
+      "price": "4.99",
+      "old_price": "5.50",
+      "id": "10"
+    },
+    {
+      "name": "Chicken Breast",
+      "image": "../images/chicken_breast.jpg",
+      "category": "Meats & Seafood",
+      "amount": "500g",
+      "company": "Farm Fresh",
+      "price": "6.99",
+      "old_price": "7.50",
+      "id": "11"
+    },
+    {
+      "name": "Salmon Fillet",
+      "image": "../images/salmon_fillet.jpg",
+      "category": "Meats & Seafood",
+      "amount": "250g",
+      "company": "Ocean Catch",
+      "price": "9.99",
+      "old_price": "11.00",
+      "id": "12"
+    },
+    {
+      "name": "Beef",
+      "image": "../images/beef.jpg",
+      "category": "Meats & Seafood",
+      "amount": "1lb",
+      "company": "Premium Meats",
+      "price": "5.99",
+      "old_price": "6.50",
+      "id": "13"
+    },
+    {
+      "name": "Sardine",
+      "image": "../images/sardine.jpg",
+      "category": "Meats & Seafood",
+      "amount": "250g",
+      "company": "Sea Delights",
+      "price": "7.99",
+      "old_price": "8.50",
+      "id": "14"
+    },
+    {
+      "name": "Pork Sausage",
+      "image": "../images/pork_sausage.jpg",
+      "category": "Meats & Seafood",
+      "amount": "1lb",
+      "company": "Farmers Market",
+      "price": "4.99",
+      "old_price": "5.80",
+      "id": "15"
+    },
+    {
+      "name": "Frozen Pizza",
+      "image": "../images/pizza.jpg",
+      "category": "Frozen Foods",
+      "amount": "400g",
+      "company": "Pizza Delight",
+      "price": "5.99",
+      "old_price": "6.50",
+      "id": "16"
+    },
+    {
+      "name": "Chocolate Ice Cream",
+      "image": "../images/ice_cream.jpg",
+      "category": "Frozen Foods",
+      "amount": "1L",
+      "company": "Ben & Jerry's",
+      "price": "7.99",
+      "old_price": "8.50",
+      "id": "17"
+    },
+    {
+      "name": "Frozen Berries",
+      "image": "../images/frozen_berries.jpg",
+      "category": "Frozen Foods",
+      "amount": "500g",
+      "company": "Green Fields",
+      "price": "2.49",
+      "old_price": "2.99",
+      "id": "18"
+    },
+    {
+      "name": "Frozen Chicken Nuggets",
+      "image": "../images/frozen_chicken_nuggets.jpg",
+      "category": "Frozen Foods",
+      "amount": "400g",
+      "company": "Crispy Bites",
+      "price": "4.99",
+      "old_price": "5.50",
+      "id": "19"
+    },
+    {
+      "name": "Frozen Veggies",
+      "image": "../images/frozen_veggies.jpg",
+      "category": "Frozen Foods",
+      "amount": "500g",
+      "company": "Green Fields",
+      "price": "3.99",
+      "old_price": "4.50",
+      "id": "20"
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "image": "../images/chocolate_chip_cookies.jpg",
+      "category": "Biscuits & Snacks",
+      "amount": "200g",
+      "company": "Delicious Treats",
+      "price": "3.49",
+      "old_price": "3.99",
+      "id": "21"
+    },
+    {
+      "name": "Potato Chips",
+      "image": "../images/pringles.jpg",
+      "category": "Biscuits & Snacks",
+      "amount": "150g",
+      "company": "Crunchy Crisps",
+      "price": "2.99",
+      "old_price": "3.50",
+      "id": "22"
+    },
+    {
+      "name": "Kit-Kat",
+      "image": "../images/kit_kat.jpg",
+      "category": "Biscuits & Snacks",
+      "amount": "250g",
+      "company": "Twisted Delights",
+      "price": "1.99",
+      "old_price": "2.50",
+      "id": "23"
+    },
+    {
+      "name": "Cheese Crackers",
+      "image": "../images/cookies.jpg",
+      "category": "Biscuits & Snacks",
+      "amount": "300g",
+      "company": "Savory Bites",
+      "price": "2.79",
+      "old_price": "3.20",
+      "id": "24"
+    },
+    {
+      "name": "Mixed Nuts",
+      "image": "../images/mixed_nuts.jpg",
+      "category": "Biscuits & Snacks",
+      "amount": "400g",
+      "company": "Nutty Delights",
+      "price": "5.99",
+      "old_price": "6.50",
+      "id": "25"
+    },
+    {
+      "name": "Finely Chopped Tomatoes",
+      "image": "../images/chopped_tomatoes.jpg",
+      "category": "Grocery & Staples",
+      "amount": "500g",
+      "company": "Italian Delights",
+      "price": "2.99",
+      "old_price": "3.50",
+      "id": "26"
+    },
+    {
+      "name": "Heinz Yellow Mustard",
+      "image": "../images/mustard.jpg",
+      "category": "Grocery & Staples",
+      "amount": "500g",
+      "company": "Heinz",
+      "price": "1.99",
+      "old_price": "2.50",
+      "id": "27"
+    },
+    {
+      "name": "Hot Tomato Sauce",
+      "image": "../images/tomato_sauce.jpg",
+      "category": "Grocery & Staples",
+      "amount": "400g",
+      "company": "Red Gold",
+      "price": "1.49",
+      "old_price": "1.80",
+      "id": "28"
+    },
+    {
+      "name": "Yeast extract",
+      "image": "../images/yeast.jpg",
+      "category": "Grocery & Staples",
+      "amount": "200ml",
+      "company": "Mediterranean Harvest",
+      "price": "5.99",
+      "old_price": "6.50",
+      "id": "29"
+    },
+    {
+      "name": "Spicy Sauce Tabasco",
+      "image": "../images/tabasco.jpg",
+      "category": "Grocery & Staples",
+      "amount": "150ml",
+      "company": "Flavorful Seasonings",
+      "price": "7.99",
+      "old_price": "9.00",
+      "id": "30"
+    },
+    {
+      "name": "Red Wine",
+      "image": "../images/red_wine.jpg",
+      "category": "Wines & Alcohol drinks",
+      "amount": "750ml",
+      "company": "Vineyard Select",
+      "price": "12.99",
+      "old_price": "15.00",
+      "id": "31"
+    },
+    {
+      "name": "White Wine",
+      "image": "../images/white_wine.jpg",
+      "category": "Wines & Alcohol drinks",
+      "amount": "750ml",
+      "company": "Elegant Vines",
+      "price": "11.99",
+      "old_price": "13.50",
+      "id": "32"
+    },
+    {
+      "name": "Craft Beer",
+      "image": "../images/craft_beer.jpg",
+      "category": "Wines & Alcohol drinks",
+      "amount": "330ml",
+      "company": "Hoppy Brews",
+      "price": "3.99",
+      "old_price": "4.50",
+      "id": "33"
+    },
+    {
+      "name": "Vodka",
+      "image": "../images/vodka.jpg",
+      "category": "Wines & Alcohol drinks",
+      "amount": "750ml",
+      "company": "Premium Spirits",
+      "price": "19.99",
+      "old_price": "22.50",
+      "id": "34"
+    },
+    {
+      "name": "Whiskey",
+      "image": "../images/whiskey.jpg",
+      "category": "Wines & Alcohol drinks",
+      "amount": "750ml",
+      "company": "Smooth Distillers",
+      "price": "29.99",
+      "old_price": "34.00",
+      "id": "35"
+    },
+    {
+      "name": "Nutella",
+      "image": "../images/nutella.jpg",
+      "category": "Breakfast & Dairy",
+      "amount": "1kg",
+      "company": "Fresh Farms",
+      "price": "2.49",
+      "old_price": "2.99",
+      "id": "36"
+    },
+    {
+      "name": "Yogurt",
+      "image": "../images/yogurt.jpg",
+      "category": "Breakfast & Dairy",
+      "amount": "500g",
+      "company": "Creamy Delight",
+      "price": "1.99",
+      "old_price": "2.50",
+      "id": "37"
+    },
+    {
+      "name": "Ginger Jam",
+      "image": "../images/jinger-jam.jpg",
+      "category": "Breakfast & Dairy",
+      "amount": "300g",
+      "company": "Golden Grains",
+      "price": "3.99",
+      "old_price": "4.50",
+      "id": "38"
+    },
+    {
+      "name": "Eggs",
+      "image": "../images/eggs.jpg",
+      "category": "Breakfast & Dairy",
+      "amount": "12-pack",
+      "company": "Farm Fresh",
+      "price": "3.99",
+      "old_price": "4.50",
+      "id": "39"
+    },
+    {
+      "name": "Bread",
+      "image": "../images/bread.jpg",
+      "category": "Breakfast & Dairy",
+      "amount": "500g",
+      "company": "Artisan Baker",
+      "price": "2.49",
+      "old_price": "2.99",
+      "id": "40"
+    },
+    {
+      "name": "Corn snack salty premium crunchy",
+      "image": "../images/corn.jpg",
+      "category": "Biscuits & Snacks",
+      "amount": "50g",
+      "company": "Bizco",
+      "price": "2.40",
+      "old_price": "3.10",
+      "id": "Vyim5Vy"
+    }
+  ],
+  "admins": [
+    {
+      "username": "Alice",
+      "password": "123"
+    },
+    {
+      "username": "Alex",
+      "password": "234"
+    }
+  ],
+  "favorites": [],
+  "inCart": [],
+  "bought": []
+}
